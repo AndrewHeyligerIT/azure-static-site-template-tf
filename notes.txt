@@ -1,0 +1,31 @@
+Intro to the subject
+  Watched a beginner overview video of the subject
+
+Basic tutorial example
+  Open VScode
+  Create new folder in project section called vscode test
+  Open terminal powershell and verify if terraform is installed
+  Search google:  terraform azure
+  Take notes while watching video and follow a long at the same time
+  Add video link in the notes
+  If you need to use another site as an example add link in notes
+  If you have code use comments on each line of the template 
+  Finish the whole tutorial
+  Subscribed to user for further videos
+
+Actual example tutorial
+  Open VScode
+  Create new folder in project section called vscode test
+  Open terminal powershell and verify if terraform is installed
+  Search google:  terraform azure
+  Take notes while watching video and follow a long at the same time
+  Add video link in the notes
+  If you need to use another site as an example add link in notes
+  If there is a part that is note explained or doesnt' match up (may need to stop and find another tutorial that will get you caught up)
+    Search youtube for a video tutorial on the issue that is not matched up
+    Add a see below option on this this step that directs to another guide at the bottom of the page
+    Go to the bottom of the document you were creating and start a new section for this document
+    Add a 
+  If you have code use comments on each line of the template 
+  Finish the whole tutorial
+  Subscribed to user for further videos
